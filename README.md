@@ -7,9 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer;5+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45">
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=consolas&pause=1000&width=700&height=80&lines=I+am+a+Full+Stack+Web+Developer.;Over+6+years+of+professional+exposure+in+Web+Development." alt="Typing SVG" /></a>
 </p>
 
 ## Core Skills
