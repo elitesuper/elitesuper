@@ -6,8 +6,15 @@
   <img src="https://github.com/icedev528/icedev528/blob/main/Logo.gif" />
 </p>
 
-### Overview
+## Overview
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=consolas&pause=1000&width=700&height=80&lines=I+am+a+Full+Stack+Web+Developer.;Over+6+years+of+professional+exposure+in+Web+Development.)](https://git.io/typing-svg)
+Over 6 years of professional exposure in JavaScript technology such as ReactJs, Vue.Js, MongoDB, Express.js and Node.Js.
+4+ years of strong experience in building ecommerce application using JavaScript MERN Stack and MEVN Stack using Redux, Flux, Babel+Es6 and WebPack for Single Page Application development.
+Expertise in developing web pages using HTML5, CSS3, MVC, SASS, LESS, Object Oriented Java script, ES6, TypeScript, Jquery, Ajax, Json, Xml. Good understanding of Document Object Model(DOM) and DOM Functions.
+Good Experience in developing web applications implementing Model View Control architecture using Django, Flask and spring web application frameworks
+Knowledge about setting up Python REST API Frame work using Django.
+Good working experience in designing and implementing various web applications in both LAMP Linux, Apache, MySQL, PHP and WAMP Windows, Apache, MySQL, PHP Environments
 
 ## Core Skills
 
