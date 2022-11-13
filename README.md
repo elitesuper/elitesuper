@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=consolas&pause=1000&width=700&height=80&lines=I+am+a+Full+Stack+Web+Developer.;Over+6+years+of+professional+exposure+in+Web+Development." alt="Typing SVG" /></a>
+  <div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=consolas&pause=1000&width=700&height=80&lines=I+am+a+Full+Stack+Web+Developer.;Over+6+years+of+professional+exposure+in+Web+Development." alt="Typing SVG" /></a>
+   </div>
 </p>
 
 ## Core Skills
