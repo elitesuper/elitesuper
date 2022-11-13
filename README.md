@@ -21,10 +21,6 @@
 - 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
 - 📫 <b>Languages</b> : JavaScript, TypeScript, Python, PHP, C#, HTML5, CSS/SCSS/LESS, Solidity, Rust
 
-<p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=SuperStar7171&column=7&theme=onedark"/>
-</p>
-
 ## Languages & Tools
 
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
