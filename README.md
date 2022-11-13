@@ -4,7 +4,7 @@
 
 ## Overview
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=consolas&weight=600&size=30&pause=1000&color=F70EE2&center=true&width=800&height=80&lines=I+am+a+Full+Stack+Web+Developer.;Over+6+years+of+professional+exposure+in+Web+Development.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+sans+ms&weight=700&size=40&pause=1000&color=F70EE2&vCenter=true&width=800&height=80&lines=I+am+a+Full+Stack+Web+Developer.;Over+6+years+of+professional+exposure+in+Web+Development.)](https://git.io/typing-svg)
 
 Over 6 years of professional exposure in JavaScript technology such as ReactJs, Vue.Js, MongoDB, Express.js and Node.Js.
 4+ years of strong experience in building ecommerce application using JavaScript MERN Stack and MEVN Stack using Redux, Flux, Babel+Es6 and WebPack for Single Page Application development.
