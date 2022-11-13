@@ -6,11 +6,8 @@
   <img src="https://github.com/icedev528/icedev528/blob/main/Logo.gif" />
 </p>
 
-<p align="center">
-  <div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=consolas&pause=1000&width=700&height=80&lines=I+am+a+Full+Stack+Web+Developer.;Over+6+years+of+professional+exposure+in+Web+Development." alt="Typing SVG" /></a>
-   </div>
-</p>
+### Overview
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=consolas&pause=1000&width=700&height=80&lines=I+am+a+Full+Stack+Web+Developer.;Over+6+years+of+professional+exposure+in+Web+Development.)](https://git.io/typing-svg)
 
 ## Core Skills
 
