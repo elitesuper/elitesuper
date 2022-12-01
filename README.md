@@ -5,14 +5,15 @@
 ## Overview
 
 <div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=520&lines=I+am+a+Full+Stack+Web+Developer;Over+6+years+of+Experiences+in+Web." alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elitesuper&theme=github" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elitesuper&theme=github" />
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=elitesuper&theme=react-dark" />
 </div>
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=520&lines=I+am+a+Full+Stack+Web+Developer;Over+6+years+of+Experiences+in+Web." alt="Typing SVG" /></a>
-</div>
 Over 6 years of professional exposure in JavaScript technology such as ReactJs, Vue.Js, MongoDB, Express.js and Node.Js.
 4+ years of strong experience in building ecommerce application using JavaScript MERN Stack and MEVN Stack using Redux, Flux, Babel+Es6 and WebPack for Single Page Application development.
 Expertise in developing web pages using HTML5, CSS3, MVC, SASS, LESS, Object Oriented Java script, ES6, TypeScript, Jquery, Ajax, Json, Xml. Good understanding of Document Object Model(DOM) and DOM Functions.
