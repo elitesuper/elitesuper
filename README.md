@@ -3,8 +3,8 @@
 </h1>
 
 ## Overview
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elitesuper&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elitesuper&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elitesuper&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elitesuper&theme=github)
 
 
 <div align="center">
