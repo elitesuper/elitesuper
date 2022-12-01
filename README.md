@@ -11,7 +11,6 @@
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elitesuper&theme=github" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elitesuper&theme=github" />
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=elitesuper&theme=react-dark" />
 </div>
 
 Over 6 years of professional exposure in JavaScript technology such as ReactJs, Vue.Js, MongoDB, Express.js and Node.Js.
