@@ -3,7 +3,8 @@
 </h1>
 
 ## Overview
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elitesuper&layout=compact&langs_count=8)](https://github.com/elitesuper)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elitesuper&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elitesuper&theme=default)
 
 
 <div align="center">
