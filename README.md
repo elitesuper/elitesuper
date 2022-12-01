@@ -7,10 +7,8 @@
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elitesuper&theme=github" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elitesuper&theme=github" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elitesuper&langs_count=8&layout=compact" />
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=elitesuper&theme=react-dark" />
 </div>
-
-[![EliteSuper's github activity graph](https://activity-graph.herokuapp.com/graph?username=elitesuper&theme=react-dark)](https://github.com/elitesuper)
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=520&lines=I+am+a+Full+Stack+Web+Developer;Over+6+years+of+Experiences+in+Web." alt="Typing SVG" /></a>
