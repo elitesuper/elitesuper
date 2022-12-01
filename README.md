@@ -4,7 +4,7 @@
 
 ## Overview
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elitesuper&langs_count=8)](https://github.com/elitesuper)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elitesuper&langs_count=8&layout=compact)](https://github.com/elitesuper)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elitesuper&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elitesuper&theme=github)
 [![EliteSuper's github activity graph](https://activity-graph.herokuapp.com/graph?username=elitesuper&theme=react-dark)](https://github.com/elitesuper)
