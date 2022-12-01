@@ -4,20 +4,14 @@
 
 ## Overview
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/elitesuper/convoychat">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elitesuper&theme=github" />
-</a>
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elitesuper&theme=github" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elitesuper&theme=github" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elitesuper&langs_count=8&layout=compact" />
+  
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elitesuper&langs_count=8&layout=compact)](https://github.com/elitesuper)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elitesuper&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elitesuper&theme=github)
+[![Top Langs]()](https://github.com/elitesuper)
 [![EliteSuper's github activity graph](https://activity-graph.herokuapp.com/graph?username=elitesuper&theme=react-dark)](https://github.com/elitesuper)
 
 <div align="center">
