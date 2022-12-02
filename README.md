@@ -7,9 +7,9 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elitesuper&theme=github" />
 </div>
 
-<div align="center">
+<p align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy"/>
-</div>
+</p>
 
 
 
