@@ -7,9 +7,7 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elitesuper&theme=github" />
 </div>
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=elitesuper&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=elitesuper)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
