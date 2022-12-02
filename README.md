@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=elitesuper&column=6&rank=SECRET,S,AAA,AA,A,B,C," />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=elitesuper&column=7" />
 </p>
 
 
