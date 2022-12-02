@@ -3,9 +3,6 @@
 </div>
 
 <div align="center">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elitesuper&theme=default" />
-</div>
-<div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elitesuper&theme=github" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elitesuper&theme=github" />
 </div>
