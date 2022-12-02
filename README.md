@@ -1,19 +1,6 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=520&lines=I+am+a+Full+Stack+Web+Developer;Over+6+years+of+Experiences+in+Web." alt="Typing SVG" /></a>
 </div>
-<div align="center">
-    <picture>
-        <source 
-          srcset="https://github-readme-stats.vercel.app/api?username=elitesuper&show_icons=true&theme=dark"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=elitesuper&show_icons=true"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api?username=elitesuper&show_icons=true" />
-    </picture>
-</div>
 
 <div align="center">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elitesuper&theme=default" />
