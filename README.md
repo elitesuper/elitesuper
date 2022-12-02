@@ -11,10 +11,6 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=elitesuper&column=7" />
 </p>
 
-<div align="center">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=elitesuper&theme=react-dark" />
-</div>
-
 
 ## Languages & Tools
 <p align="center">
