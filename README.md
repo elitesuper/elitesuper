@@ -7,6 +7,12 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elitesuper&theme=github" />
 </div>
 
+<div align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy"/>
+</div>
+
+
+
 ## Languages & Tools
 <p align="center">
   <a href="https://skillicons.dev">
