@@ -2,6 +2,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=60&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Any+fool+can+know.;The+point+is+understand." alt="Typing SVG" /></a>
 </div>
 
+<p align="center">
+  Contact me : supermariodev1220@gmail.com
+</p>
+
 ## Overview
 
 <div align="center">
@@ -10,9 +14,7 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elitesuper&theme=github&utcOffset=8" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elitesuper&theme=github" />  
 </div>
-<p align="center">
-  Contact me : supermariodev1220@gmail.com
-</p>
+
 ## Achievements
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=elitesuper&column=7" />
