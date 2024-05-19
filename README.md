@@ -14,7 +14,7 @@
 
 ## Achievements
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=elitesuper&column=7" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=elitesuper&column=5" />
 </p>
 
 ## Prefered Technicals
